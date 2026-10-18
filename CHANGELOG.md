@@ -1,0 +1,1 @@
+- perf(ffmpeg): optimize buffer size and pipe handling for Windows console
