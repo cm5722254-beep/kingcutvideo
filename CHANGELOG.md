@@ -11,3 +11,4 @@
 - feat(merger): implement automatic temporary file cleanup on merge cancellation
 - feat(merger): add crossfade transitions and background music mixing in merger
 - feat(merger): add per-clip intro/outro trimming in merger engine
+- feat(ui): add responsive layout scaling for various display resolutions
