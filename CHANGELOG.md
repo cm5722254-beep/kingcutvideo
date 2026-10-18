@@ -17,3 +17,4 @@
 - feat(queue): add batch stop and queue clearing controls
 - feat(queue): add sequential job chaining and automatic status notifications
 - feat(folder): enhance recursive video folder scanning with natural sort
+- feat(full-movie): add 1-click Full Movie compilation preset for episodic drama
