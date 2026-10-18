@@ -7,3 +7,4 @@
 - feat(splitter): implement equal parts splitting mode in SplitWorker
 - feat(splitter): implement file size based splitting mode in SplitWorker
 - feat(splitter): implement cancellation cleanup logic for incomplete video segments
+- feat(merger): add safety check for audio sample rate alignment in concat
