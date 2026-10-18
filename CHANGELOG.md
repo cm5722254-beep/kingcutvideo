@@ -2,3 +2,4 @@
 - feat(i18n): expand localized tooltips and Khmer typography rendering
 - feat(splitter): enhance pause/resume signal synchronization
 - feat(splitter): add auto-detection for silence threshold calibration
+- feat(splitter): implement lossless stream-copy fast mode split logic
