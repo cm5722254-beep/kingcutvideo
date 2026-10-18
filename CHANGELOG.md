@@ -10,3 +10,4 @@
 - feat(merger): add safety check for audio sample rate alignment in concat
 - feat(merger): implement automatic temporary file cleanup on merge cancellation
 - feat(merger): add crossfade transitions and background music mixing in merger
+- feat(merger): add per-clip intro/outro trimming in merger engine
