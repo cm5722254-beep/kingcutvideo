@@ -4,3 +4,4 @@
 - feat(splitter): add auto-detection for silence threshold calibration
 - feat(splitter): implement lossless stream-copy fast mode split logic
 - feat(splitter): implement precise re-encode mode with resolution presets
+- feat(splitter): implement equal parts splitting mode in SplitWorker
