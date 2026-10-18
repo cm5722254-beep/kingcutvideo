@@ -16,3 +16,4 @@
 - feat(ui): add disk space monitor with auto-refreshing status timer
 - feat(queue): add batch stop and queue clearing controls
 - feat(queue): add sequential job chaining and automatic status notifications
+- feat(folder): enhance recursive video folder scanning with natural sort
