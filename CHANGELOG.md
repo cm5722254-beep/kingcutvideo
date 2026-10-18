@@ -1,3 +1,4 @@
 - perf(ffmpeg): optimize buffer size and pipe handling for Windows console
 - feat(i18n): expand localized tooltips and Khmer typography rendering
 - feat(splitter): enhance pause/resume signal synchronization
+- feat(splitter): add auto-detection for silence threshold calibration
