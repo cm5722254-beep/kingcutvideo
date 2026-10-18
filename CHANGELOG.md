@@ -3,3 +3,4 @@
 - feat(splitter): enhance pause/resume signal synchronization
 - feat(splitter): add auto-detection for silence threshold calibration
 - feat(splitter): implement lossless stream-copy fast mode split logic
+- feat(splitter): implement precise re-encode mode with resolution presets
