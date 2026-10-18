@@ -14,3 +14,4 @@
 - feat(ui): add responsive layout scaling for various display resolutions
 - feat(ui): add visual badge for active hardware acceleration mode
 - feat(ui): add disk space monitor with auto-refreshing status timer
+- feat(queue): add batch stop and queue clearing controls
