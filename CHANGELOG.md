@@ -5,3 +5,4 @@
 - feat(splitter): implement lossless stream-copy fast mode split logic
 - feat(splitter): implement precise re-encode mode with resolution presets
 - feat(splitter): implement equal parts splitting mode in SplitWorker
+- feat(splitter): implement file size based splitting mode in SplitWorker
